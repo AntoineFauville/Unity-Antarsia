@@ -1,0 +1,55 @@
+Antarsia
+
+Platform : PC
+Public : Petit - Rpg hard lovers surtout nous car on aime ca lol
+Story : voir documents/dossiers histoires
+Gameplay Specificités : 
+
+Jeu en tiles d'exploration / roles play. 
+
+-gestionnaire d'équipements (inventaire, loot)
+-gestionnaire de compétences
+-Carte et exploration
+-Donjons aleatoires
+-Systeme de shops
+-Systeme de quetes et intéractions avec l'environnement
+-Systeme d'IA:	-Pnj
+		-Ennemis (boss, ennemi classique, élites)
+
+A - Exploration :
+
+L'exploration se déroule librement ainsi que le coté intéraction avec l'environement.
+ref : pokémon
+
+Pour ce qui est du monde, il sera constitué de deux types de "carte", les safes zones
+et les zones générées aléatoirement.
+Le monde est constitués et défini mais, les donjons et autres instances sont générées
+aléatoirement par un systeme de salles préfabriquées assemblées.
+
+B - Combat :
+
+Tandis que le coté combat s'assimile à un jeu de plateau stratégie.
+Il n'y a pas de différence entre le combat et le déplacement, pas de chargement
+lorsqu'on est en combat, les déplacements ainsi que les compétences coutent désormait
+des points d'actions. Ceux-ci peuvent variés en fonction de différentes variables du jeu
+ref : dofus mais sans les points de déplacements
+
+Pour ce qui est des compétences, le personnage peut débloquer des compétences lors
+de loot sur des monstres (ceci dépent énormement de l'aléatoire)
+et des rencontres qu'il ferra dans le monde.
+ref: Sacred
+
+Points uniques :
+
+-Progression personnalisée
+-Point d'action
+-Un univers pesonnalisé
+
+Autres jeux similaires :
+-Sacred
+-Dungeon Crawl Stone Soup
+-Dwarfs
+-Dungeon and Dragon
+-Dofus
+-Diablo
+-Dwarf fortress
