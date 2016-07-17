@@ -1,0 +1,39 @@
+Avant tout classer tout ce qui as dans le jeu et voir l'importance pour un concept ou pas
+
+-Grille
+-Déplacement
+-Combat
+-Compétences
+-IA
+-fogwar
+-systeme d'équipement,inventaire et fiche de perso
+-quete + histoire
+-donjons (-> aleatoire)
+
+Etape 1 : Avoir un concept qui fonctionne.
+
+Système principal du jeu sont :
+- le combat
+- le déplacement
+- un but -> progression -> niveau xp
+
+le déplacement : 
+- la grille
+- monter descendre gauche et droite
+- block bloquer
+- block intéraction
+- porte
+
+Combat :
+- faire une compétence distance + corps a corps (console + visuel)
+- deplacement en combat
+- gestionnaire de Points d'actions
+
+but :
+- pré-fiche de personnage + stats
+- expérience ? systeme de progression
+- livre expliquant les sorts ou on peut les lires ?
+
+*Eventuellement la vision
+
+Etape 2 : rajouter au concept des modules.
